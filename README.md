@@ -3,6 +3,6 @@ Coding projects from some of my university modules, examining the influence of c
 
 Major Projects include:
 
-Applied team project. Completed in a team of 6, this project looks at the theme of data interpolation.
-Pure team project, focusing on graph theory.
-Statistics project, using a Monte Carlo bootstrap method.
+Applied team project. Completed in a team of 6, this project looks at the theme of data interpolation.  
+Pure team project, focusing on graph theory.  
+Statistics project, using a Monte Carlo bootstrap method.  
